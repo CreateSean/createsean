@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 I'm Sean a front end developer and Craft CMS expert from Toronto, Canada. I have been developing websites for over 15 years.
 
 I am also the founder and co-host of [the Website 101 Podcast.](https://website101podcast.com/)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
