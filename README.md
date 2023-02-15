@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--
-**CreateSean/createsean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sean a front end developer and Craft CMS expert from Toronto, Canada. I have been developing websites for over 15 years.
+
+I am also the founder and co-host of [the Website 101 Podcast.](https://website101podcast.com/)
 
 Here are some ideas to get you started:
 
